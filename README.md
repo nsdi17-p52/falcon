@@ -1,5 +1,5 @@
 # Falcon
-This project combines RDMA and Paxos.
+This project combines RDMA and Paxos. The raw evaluation results are available [here](https://docs.google.com/spreadsheets/d/1_lMG-KMgHAQldZoaiktpokGsiDU1_43BrXGY0BVZkWY/edit?usp=sharing).
   
 OS: Ubuntu 14.04.02 64bit.
 ## How to run
