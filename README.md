@@ -1,5 +1,9 @@
 # Falcon
-This project combines RDMA and Paxos. The raw evaluation results are available here: [performance on replicated programs](https://docs.google.com/spreadsheets/d/1_lMG-KMgHAQldZoaiktpokGsiDU1_43BrXGY0BVZkWY/edit#gid=0), [consensus latency breakdown](https://docs.google.com/spreadsheets/d/1_lMG-KMgHAQldZoaiktpokGsiDU1_43BrXGY0BVZkWY/edit#gid=738955580), [comparison with DARE](https://docs.google.com/spreadsheets/d/1_lMG-KMgHAQldZoaiktpokGsiDU1_43BrXGY0BVZkWY/edit#gid=1107443132) and [scalability evaluation](https://docs.google.com/spreadsheets/d/1_lMG-KMgHAQldZoaiktpokGsiDU1_43BrXGY0BVZkWY/edit#gid=1775362239).
+This project combines RDMA and Paxos. The raw evaluation results are available here:  
+1. [performance on replicated programs](https://docs.google.com/spreadsheets/d/1_lMG-KMgHAQldZoaiktpokGsiDU1_43BrXGY0BVZkWY/edit#gid=0)  
+2. [consensus latency breakdown](https://docs.google.com/spreadsheets/d/1_lMG-KMgHAQldZoaiktpokGsiDU1_43BrXGY0BVZkWY/edit#gid=738955580)  
+3. [comparison with DARE](https://docs.google.com/spreadsheets/d/1_lMG-KMgHAQldZoaiktpokGsiDU1_43BrXGY0BVZkWY/edit#gid=1107443132)  
+4.  [scalability evaluation](https://docs.google.com/spreadsheets/d/1_lMG-KMgHAQldZoaiktpokGsiDU1_43BrXGY0BVZkWY/edit#gid=1775362239).
   
 OS: Ubuntu 14.04.02 64bit.
 ## How to run
